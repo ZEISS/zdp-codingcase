@@ -2,7 +2,7 @@ services:
   server:
     build:
       context: .
-    image: kevinhaupt604/zeiss-codingcase
+    image: ghcr.io/zeiss/zdp-codingcase
     environment:
       NODE_ENV: production
     ports:
