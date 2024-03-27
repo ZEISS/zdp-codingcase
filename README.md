@@ -1,4 +1,4 @@
-# Zeiss Machine Data API
+# ZEISS Machine Data API
 
 This project is a REST API built with TypeScript and Express.js that exposes machine data as JSON. It can be run as a local Docker container.
 
